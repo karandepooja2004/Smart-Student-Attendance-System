@@ -77,7 +77,9 @@ An AI-powered attendance system that uses **Face Recognition + Uniform Detection
 * Run FaceCapture.py file
 * Create a folder: dataset/
 * Inside it, create subfolders for each student:
+  
     dataset/Rahul/
+
     dataset/Priya/
 
 * Capture 20–50 face images per student using camera
@@ -88,7 +90,10 @@ An AI-powered attendance system that uses **Face Recognition + Uniform Detection
 
 * Stores training data (image paths with labels)
 
-  EX - 
+  EX -
+  
     Student_ID,Person_name,Image_path
+
     101,Rahul,dataset/Rahul/0.jpg
+  
     101,Rahul,dataset/Rahul/1.jpg
